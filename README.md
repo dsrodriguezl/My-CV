@@ -15,8 +15,8 @@ Biologist with a great interest in Behavioral and Chemical Ecology, in particula
 ### Software
 - MS Office: Good Knowledge (User)
 - R: Basic knowledge
-- Markdown: Begginer
-- Python: Begginer
+- Markdown: Beginner
+- Python: Beginner
 
 ### Languages
 - Spanish: Mother tongue
