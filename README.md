@@ -1,5 +1,5 @@
 # Daniel Rodríguez
-[E-mail](daniel.rodriguez@stud-mail.uni-wuerzburg.de)/[Researchgate](https://www.researchgate.net/profile/Daniel-Rodriguez-Leon)/[ORCID](https://orcid.org/0000-0001-9637-1364)/[LinkedIn](www.linkedin.com/in/daniel-rodríguez-león-0844b372)/[GitHub](https://github.com/dsrodriguezl)
+[E-mail](mailto:daniel.rodriguez@stud-mail.uni-wuerzburg.de)/[Researchgate](https://www.researchgate.net/profile/Daniel-Rodriguez-Leon)/[ORCID](https://orcid.org/0000-0001-9637-1364)/[LinkedIn](www.linkedin.com/in/daniel-rodríguez-león-0844b372)/[GitHub](https://github.com/dsrodriguezl)
 
 ## Higher education
 
