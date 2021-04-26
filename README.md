@@ -11,7 +11,22 @@ Biologist with a great interest in Behavioral and Chemical Ecology, in particula
 ## Selected Posters / Presentations / Publications
 
 ## Additional qualifications
+### Software
+- MS Office: Good Knowledge (User)
+- R: Basic knowledge
+- Markdown: Begginer
+- Python: Begginer
 
+### Languages
+- Spanish: Mother tongue
+- English: Advanced (C1)
+- German: Intermediate (B2)
+
+### Other:
+- Organized and independent in settling and conducting scientific experiments
+- Interest in interdisciplinary and intercultural research collaborations
+- Strong background in Chemical Ecology (i.e. GC-MS analysis)
+- Solid theoretical knowledge of Behavioral ecology (e.g. Social Evolution and Division of Labor)
 
 ## Welcome to GitHub Pages
 
