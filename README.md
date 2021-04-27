@@ -5,12 +5,21 @@ Biologist with a great interest in Behavioral and Chemical Ecology, in particula
 
 ## Higher education
 **Bachelor of Science** in Biology <br>
-[Universidad Nacional de Colombia](https://unal.edu.co/) - Bogotá, Colombia (2011-2016)
+[Universidad Nacional de Colombia](https://unal.edu.co/) - Bogotá D.C., Colombia (2011-2016)
 
 **Master of Science** in Biosciences <br>
 [JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (2017-2020)
 
 ## Professional experience
+**Internship** in the Biodiversity Sciences program of the Line of Risk Assessment and Wildlife <br>
+[Instituto Alexander von Humboldt](www.humboldt.org.co/es) - Bogotá D.C., Colombia (August 2016 - February 2017)
+
+**Biology teacher** <br>
+[Grupo Formarte S.A.S](https://formarte.edu.co) - Bogotá D.C., Colombia (January - September 2017)
+
+**International Student Tutor** in the Kompass Program of the Faculty of Biology <br>
+[JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (November 2018 - September 2020)
+
 
 ## Continuing education
 
