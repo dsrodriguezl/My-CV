@@ -22,15 +22,35 @@ Biologist with a great interest in Behavioral and Chemical Ecology, in particula
 
 
 ## Continuing education
+**Course** in _Models of Species distribution_ <br>
+Faculty of Science, [Universidad Nacional de Colombia](https://unal.edu.co/) - Bogotá D.C., Colombia (September 2016 - February 2017)
 
-## Selected Posters / Presentations / Publications
+**Seminar** in _Intercultural Competences_ <br>
+Faculty of Biology, [JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (April -July 2018)
+
+**Course** in _Social Evolution_ <br>
+Faculty of Science, [University of Copenhagen](https://www.ku.dk/english) - Copenhagen, Denmark (November 2019)
+
+## Posters / Presentations / Publications
+
+**Poster:** Research of the biology and behavior of feral dogs in the PNN Chingaza, for an understanding of their ecological role – Project presentation <br>
+II Symposium of Animal Behavior. IV Colombian Congress of Zoology. - Cartagena D.T., Colombia (December 2014)
+
+**Presentation:** Variation of the relative abundance and diet of dogs (_C. lupus familiaris_) on a gradient of human presence in a natural preserve of the civil society (Tabio, Cundinamarca) <br>
+Symposium of bachelor theses 2016-I. Faculty of Science, [Universidad Nacional de Colombia](https://unal.edu.co/) - Bogotá D.C., Colombia (May 2016)
+
+**Paper Publication:** Rodríguez-León DS, López-Arévalo HF. Variación de la abundancia relativa de perros en un gradiente de presencia humana en dos reservas privadas (Tabio, Cundinamarca). Acta biol. Colomb. 2019;24(2):379-390.
+DOI: [https://doi.org/10.15446/abc.v24n2.70608](https://doi.org/10.15446/abc.v24n2.70608) - (May 2019)
+
 
 ## Additional qualifications
 ### Software
 - MS Office: Good Knowledge (User)
 - R: Basic knowledge
+- RMarkdown:  Basic knowledge
 - Markdown: Beginner
 - Python: Beginner
+- Git: Beginner
 
 ### Languages
 - Spanish: Mother tongue
