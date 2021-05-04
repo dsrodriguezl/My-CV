@@ -60,11 +60,13 @@ Foreigners promotion of the [Konrad-Adenauer-Stiftung](https://www.kas.de/de/hom
 ### Programming languages
 
 **R:** Basic knowledge
+
 **Python:** Beginner
 
 ## Markup languages
 
 **RMarkdown:**  Basic knowledge
+
 **Markdown:** Beginner
 
 ## Version control
@@ -73,7 +75,9 @@ Foreigners promotion of the [Konrad-Adenauer-Stiftung](https://www.kas.de/de/hom
 
 ### Languages
 **Spanish:** Mother tongue
+
 **English:** Advanced (C1)
+
 **German:** Intermediate (B2)
 
 ### Other:
