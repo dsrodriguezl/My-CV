@@ -44,22 +44,37 @@ DOI: [https://doi.org/10.15446/abc.v24n2.70608](https://doi.org/10.15446/abc.v24
 
 ## Voluntary work
 
+**International Student Tutor** in the Kompass Program of the Faculty of Biology <br>
+[JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (September 2020 - Present)
+
 ## Grants and fellowships
 
+**Doctoral fellowship**
+Foreigners promotion of the [Konrad-Adenauer-Stiftung](https://www.kas.de/de/home) - Würzburg, Germany (January 2021 - Present)
 
 ## Additional qualifications
-### Software
-- MS Office: Good Knowledge (User)
-- R: Basic knowledge
-- RMarkdown:  Basic knowledge
-- Markdown: Beginner
-- Python: Beginner
-- Git: Beginner
+### Offimatic Applications
+
+**MS Office:** Good Knowledge (User)
+
+### Programming languages
+
+**R:** Basic knowledge
+**Python:** Beginner
+
+## Markup languages
+
+**RMarkdown:**  Basic knowledge
+**Markdown:** Beginner
+
+## Version control
+
+**Git:** Beginner
 
 ### Languages
-- Spanish: Mother tongue
-- English: Advanced (C1)
-- German: Intermediate (B2)
+**Spanish:** Mother tongue
+**English:** Advanced (C1)
+**German:** Intermediate (B2)
 
 ### Other:
 - Organized and independent in settling and conducting scientific experiments
