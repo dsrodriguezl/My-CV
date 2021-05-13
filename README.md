@@ -42,6 +42,10 @@ Symposium of bachelor theses 2016-I. Faculty of Science, [Universidad Nacional d
 **Paper Publication:** Rodríguez-León DS, López-Arévalo HF. Variación de la abundancia relativa de perros en un gradiente de presencia humana en dos reservas privadas (Tabio, Cundinamarca). Acta biol. Colomb. 2019;24(2):379-390.
 DOI: [https://doi.org/10.15446/abc.v24n2.70608](https://doi.org/10.15446/abc.v24n2.70608) - (May 2019)
 
+**Flash presentation:**  Variation of the cuticular hydrocarbon profiles among honeybees
+workers with different social roles and between different _Apis mellifera_ subspecies <br>
+[68th Annual Meeting of the Working Group of the Institutes for Bee Research e.V.](https://ag-biene.uni-hohenheim.de/tagung) - Virtual Meeting via Zoom (March 24 2021)
+
 ## Voluntary work
 
 **International Student Tutor** in the Kompass Program of the Faculty of Biology <br>
