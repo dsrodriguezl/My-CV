@@ -53,13 +53,13 @@ DOI: [https://doi.org/10.15446/abc.v24n2.70608](https://doi.org/10.15446/abc.v24
 
 ## Conference contributions
 **Presentation:** Honey bee (_Apis mellifera_) CHC variations: New insight from desaturases and elongases expression assays <br>
-European meeting of the International Union for the Study of Social Insects (IUSSI) - Lausanne, Switzerland (July 8, 2024)
+[European meeting of the International Union for the Study of Social Insects (IUSSI)](https://wp.unil.ch/iussi-europe-2024/) - Lausanne, Switzerland (July 8, 2024)
 
 **Presentation:**  The expression of elongases and desaturases shed light on the CHC plasticity of honey bees (_Apis mellifera_) <br>
-7th meeting of the Central European Section of the IUSSI - Cluj-Napoca, Romania (September 19, 2023)
+[7th meeting of the Central European Section of the IUSSI](https://ceiussi2023.conference.ubbcluj.ro) - Cluj-Napoca, Romania (September 19, 2023)
 
 **Presentation:** Honeybee workers display task-related and subspecific patterns in their cuticular hydrocarbon profiles <br>
-Symposium of Communication and Chemical Ecology, 9th European Congress of Apidology - Belgrade, Serbia (September 22, 2022)
+Symposium of Communication and Chemical Ecology, [9th European Congress of Apidology](https://sites.google.com/bio.bg.ac.rs/eurbee-9/home) - Belgrade, Serbia (September 22, 2022)
 
 **Poster:** Variation of cuticular hydrocarbon profiles among honeybee workers with different social roles and between different _Apis mellifera_ subspecies <br>
 113th Meeting of the German Zoology Society - Virtual Meeting via Zoom (August 31, 2021)
