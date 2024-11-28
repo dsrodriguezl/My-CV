@@ -91,7 +91,7 @@ Foreigners promotion of the [Konrad-Adenauer-Stiftung](https://www.kas.de/de/hom
 
 **Python:** Beginner
 
-## Version control
+### Version control
 
 **Git:** Basic knowledge
 
