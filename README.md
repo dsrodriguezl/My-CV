@@ -1,8 +1,5 @@
 # Daniel Rodríguez
-**Ph.D. Student** <br>
-JMU-Würzburg, Biocentre, Office C015
-
-I am Daniel Sebastián Rodríguez León, a colombian biologist with a great interest in Behavioral and Chemical Ecology, in particular towards the study of Social Organization and Evolution, as well as Animal Communication.
+I am a Biologist specializing in Behavioral and Chemical Ecology. My interest lies on understanding the intricate world of social organization, evolution, and animal communication. I am driven by a desire to comprehend the chemical cues and signals used by social organisms for coordinating collective responses, their perception of these chemicals, and the influence of ecological, social, and environmental conditions on these communication systems.
 
 [E-mail](mailto:daniel.rodriguez@uni-wuerzburg.de)/[Researchgate](https://www.researchgate.net/profile/Daniel-Rodriguez-Leon)/[ORCID](https://orcid.org/0000-0001-9637-1364)/[LinkedIn](www.linkedin.com/in/dsrodriguezl)/[GitHub](https://github.com/dsrodriguezl)
 
