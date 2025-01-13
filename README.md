@@ -7,7 +7,7 @@ I am driven by a desire to comprehend the chemical cues and signals used by soci
 
 ## Higher education
 **Doctor of Philosophy** in Biosciences <br>
-[JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (2020-Present)
+[JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (2020-2025)
 
 **Master of Science** in Biosciences <br>
 [JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (2017-2020)
@@ -17,7 +17,7 @@ I am driven by a desire to comprehend the chemical cues and signals used by soci
 
 ## Professional experience
 **Doctoral researcher** in the Zoo3 department of the Biocentre <br>
-Faculty of Biology, [JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (November 2018 - September 2020)
+Faculty of Biology, [JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (January - June 2024)
   - **Project:** Function of cuticular hydrocarbons of honey bees.
   - **Teaching:** Chemical ecology practical course for Master and Bachelor students.
 
