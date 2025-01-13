@@ -22,7 +22,7 @@ Faculty of Biology, [JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Wü
   - **Teaching:** Chemical ecology practical course for Master and Bachelor students.
 
 **Part‑time research Assistant** in the Zoo3 department of the Biocentre <br>
-Faculty of Biology, [JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (November 2018 - September 2020)
+Faculty of Biology, [JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (December 2020 - December 2023)
   - **Activities:** Extraction and GC/MS analysis of cuticular hydrocarbons.
 
 **International Student Tutor** in the Kompass Program of the Faculty of Biology <br>
