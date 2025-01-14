@@ -45,11 +45,22 @@ Faculty of Biology, [JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Wü
 Faculty of Science, [Universidad Nacional de Colombia](https://unal.edu.co/) - Bogotá D.C., Colombia (September 2016 - February 2017)
 
 ## Publications
-**Rodríguez-León DS**, Uzunov A, Costa C, Elen D, Charistos L, Galea T, Gabel M, Scheiner R, Pinto MA, & Schmitt T. Deciphering the variation in cuticular hydrocarbon profiles of six European honey bee subspecies. BMC Ecology and Evolution. 24(1), 131.
+
+### Peer-reviewed
+
+**Research article:** **Rodríguez-León DS**, Uzunov A, Costa C, Elen D, Charistos L, Galea T, Gabel M, Scheiner R, Pinto MA, & Schmitt T. Deciphering the variation in cuticular hydrocarbon profiles of six European honey bee subspecies. BMC Ecology and Evolution. 24(1), 131.
 DOI: [https://doi.org/10.1186/s12862-024-02325-z](https://doi.org/10.1186/s12862-024-02325-z) - (October 2024)
 
-**Rodríguez-León DS**, López-Arévalo HF. Variación de la abundancia relativa de perros en un gradiente de presencia humana en dos reservas privadas (Tabio, Cundinamarca). Acta biol. Colomb. 2019;24(2):379-390.
+**Research article:** **Rodríguez-León DS**, López-Arévalo HF. Variación de la abundancia relativa de perros en un gradiente de presencia humana en dos reservas privadas (Tabio, Cundinamarca). Acta biol. Colomb. 2019;24(2):379-390.
 DOI: [https://doi.org/10.15446/abc.v24n2.70608](https://doi.org/10.15446/abc.v24n2.70608) - (May 2019)
+
+### Non-peer-reviewed
+
+**Preprint:** **Rodríguez‑León, D. S**., Schmitt, T., Pinto, M. A., Thamm, M., & Scheiner, R. (2024). Expression of elongase‑ and desaturase‑encoding genes shapes the cuticular hydrocarbon profiles of honey bees. *bioRxiv*. https://doi.org/10.1101/2024.07.22.604606
+  
+**R package:** **Rodríguez‑Leon, D. S.** (2024). analyzeGC: Analysis of GC data https://github.com/dsrodriguezl/analyzeG
+  
+**R package:** **Rodríguez‑Leon, D. S.** (2023). easyqpcr2: Custom package based on the abandoned EasyqpcR package. https://github.com/dsrodriguezl/easyqpcr2
 
 ## Conference contributions
 **Presentation:** Honey bee (_Apis mellifera_) CHC variations: New insight from desaturases and elongases expression assays <br>
