@@ -88,10 +88,10 @@ Foreigners promotion of the [Konrad-Adenauer-Stiftung](https://www.kas.de/de/hom
 
 ## Voluntary work
 **Member of the Doctoral Researchers Council** of the Graduated School of Life Sciences <br>
-[JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (January 2022 - Present)
+[JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (January 2022 - February 2025)
 
 **International Student Tutor** in the Kompass Program of the Faculty of Biology <br>
-[JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (September 2020 - Present)
+[JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (September 2020 - February 2025)
 
 ## Additional qualifications
 ### Offimatic Applications
