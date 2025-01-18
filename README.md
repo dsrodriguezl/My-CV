@@ -7,7 +7,7 @@ I am driven by a desire to comprehend the chemical cues and signals used by soci
 
 ## Higher education
 **Doctor of Philosophy** in Biosciences <br>
-[JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (2020-2025)
+[JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (2021-2025)
 
 **Master of Science** in Biosciences <br>
 [JMU-Würzburg](https://www.uni-wuerzburg.de/en/home/) - Würzburg, Germany (2017-2020)
