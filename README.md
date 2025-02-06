@@ -95,7 +95,7 @@ Foreigners promotion of the [Konrad-Adenauer-Stiftung](https://www.kas.de/de/hom
 
 ## Additional qualifications
 ### Offimatic Applications
-**MS Office:** Good Knowledge (User)
+**MS Office:** Advanced knowledge (User)
 
 ### Programming languages
 **R:** Advanced knowledge
