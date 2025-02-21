@@ -56,9 +56,13 @@ DOI: [https://doi.org/10.1186/s12862-024-02325-z](https://doi.org/10.1186/s12862
 DOI: [https://doi.org/10.15446/abc.v24n2.70608](https://doi.org/10.15446/abc.v24n2.70608) - (May 2019)
 
 ### Non-peer-reviewed
-**R package:** **Rodríguez‑Leon, D. S.** (2024). analyzeGC: Analysis of GC data https://github.com/dsrodriguezl/analyzeG
+**Data set:** **Rodríguez-León, D. S.**, Schmitt, T, Pinto, M. A., Thamm, M., Scheiner, R. (2025). Expression of elongase- and desaturase-encoding genes shapes the cuticular hydrocarbon profiles of honey bees. figshare. Software. DOI: [https://doi.org/10.6084/m9.figshare.26831491.v1](https://doi.org/10.6084/m9.figshare.26831491.v1)
+
+**R package:** **Rodríguez‑León, D. S.** (2024). analyzeGC: Analysis of GC data https://github.com/dsrodriguezl/analyzeG
+
+**Data set:** **Rodríguez-León, D. S., Uzunov, A., Costa, C., Elen, D., Charistos, L., Galea, T., et al. (2024). Deciphering the variation in cuticular hydrocarbon profiles of six European honey bee subspecies. figshare. Software. DOI: [https://doi.org/10.6084/m9.figshare.26831008.v1](https://doi.org/10.6084/m9.figshare.26831008.v1)
   
-**R package:** **Rodríguez‑Leon, D. S.** (2023). easyqpcr2: Custom package based on the abandoned EasyqpcR package. https://github.com/dsrodriguezl/easyqpcr2
+**R package:** **Rodríguez‑León, D. S.** (2023). easyqpcr2: Custom package based on the abandoned EasyqpcR package. https://github.com/dsrodriguezl/easyqpcr2
 
 ## Conference contributions
 **Presentation:** Honey bee (_Apis mellifera_) CHC variations: New insight from desaturases and elongases expression assays <br>
